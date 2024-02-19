@@ -2,13 +2,12 @@ module github.com/kotaroooo0/cloud-sdk-go
 
 go 1.21.7
 
-replace github.com/elastic/cloud-sdk-go => ../cloud-sdk-go
+replace github.com/elastic/cloud-sdk-go => .github.com/kotaroooo0/cloud-sdk-go v1.2.19
 
 require (
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2
 	github.com/blang/semver/v4 v4.0.0
 	github.com/davecgh/go-spew v1.1.1
-	github.com/elastic/cloud-sdk-go v0.0.0-00010101000000-000000000000
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-openapi/errors v0.21.0
 	github.com/go-openapi/runtime v0.27.1
