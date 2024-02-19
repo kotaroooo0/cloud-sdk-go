@@ -2,7 +2,7 @@ module github.com/kotaroooo0/cloud-sdk-go
 
 go 1.19
 
-replace github.com/elastic/cloud-sdk-go => ./
+replace github.com/elastic/cloud-sdk-go => ../cloud-sdk-go
 
 require (
 	github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d
