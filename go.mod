@@ -1,4 +1,4 @@
-module github.com/elastic/cloud-sdk-go
+module github.com/kotaroooo0/cloud-sdk-go
 
 go 1.19
 
