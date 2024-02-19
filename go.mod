@@ -39,4 +39,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/elastic/cloud-sdk-go => github.com/kotaroooo0/cloud-sdk-go v1.2.5
+replace github.com/elastic/cloud-sdk-go => github.com/kotaroooo0/cloud-sdk-go v1.2.6
